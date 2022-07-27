@@ -1,6 +1,6 @@
 # SliderAngular7
 
-The [Angular Slider](https://www.syncfusion.com/angular-ui-components/angular-slider?utm_source=github&utm_medium=listing&utm_campaign=angular-slider-github-samples). The Angular Slider is a custom range-type HTML5 input component that allows you to select a value or range of values between a specified minimum and maximum. This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
+The [Angular Slider](https://www.syncfusion.com/angular-ui-components/angular-slider?utm_source=github&utm_medium=listing&utm_campaign=angular-slider-github-samples) is a custom range-type HTML5 input component that allows you to select a value or range of values between a specified minimum and maximum. This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
 
 ## Development server
 
