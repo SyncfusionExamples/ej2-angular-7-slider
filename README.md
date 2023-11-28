@@ -49,7 +49,7 @@ Users can customize the slider as needed and change it to a date range slider, t
 The tooltip displays slide value information when the mouse pointer moves the thumb over the bar. The same can be done on mobile devices by touch events.
 
 ## Related links
-[Learn More about Angular Slider ](https://www.syncfusion.com/angular-components/angular-slider?utm_source=github&utm_medium=listing&utm_campaign=angular-slider-github-samples)
+[Learn More about Angular Slider](https://www.syncfusion.com/angular-components/angular-slider?utm_source=github&utm_medium=listing&utm_campaign=angular-slider-github-samples)
 
 [Download Free Trial](https://www.syncfusion.com/downloads/angular?utm_source=github&utm_medium=listing&utm_campaign=angular-slider-github-samples)
 
